@@ -21,7 +21,8 @@ Butter
 Cheese
 
 HOUSEHOLD
-
+Shampoo
+Lotion cream
 
 PETS
 
